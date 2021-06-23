@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1562032696 source:c:\users\yohannes-dell\documents\graphics\titres_game\main.cpp
+	<conio.h>
+	<graphics.h>
+	<dos.h>
+	<stdlib.h>
+	<random>
+	<iostream>
+	<process.h>
+	<time.h>
+	<sstream>
+
